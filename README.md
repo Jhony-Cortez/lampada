@@ -4,4 +4,4 @@ Esse projeto foi o primeiro que eu fiz enquanto aprendia JavaScript. É bem simp
 
 Acesse o link a baixo para visualizar: 
 
-[lampada]()
+[lampada](https://jhony-cortez.github.io/lampada/)
