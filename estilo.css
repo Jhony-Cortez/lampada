@@ -1,0 +1,47 @@
+body {
+    background: #ee9843;
+
+}
+
+#titulo {
+    background: rgb(224, 212, 182);
+    text-align: center;
+    width: 200px;
+    border-radius: 20px;
+    color:rgb(199, 70, 11);
+    font:normal 10pt arial;
+    margin: auto;
+    
+}
+#meio {
+    background: rgb(241, 224, 178);
+    border-radius: 20px;
+    width: 200px;
+    text-align: center;
+    margin: auto;
+}
+#but1 {
+    background:rgb(209, 121, 21);
+    border: 2px;
+    border-radius: 4px;
+    margin-top: 2px;
+    color: rgb(0, 0, 0);
+    font-family: 'Franklin Gothic Medium';
+    padding: 3px;
+}
+
+#but2 {
+    background:rgb(209, 121, 21);
+    border: 2px;
+    border-radius: 4px;
+    margin-top: 2px;
+    color: rgb(0, 0, 0);
+    font-family: 'Franklin Gothic Medium';
+    padding: 3px;
+}
+ 
+#final {
+    margin-top: 5px;
+    text-align: center;
+}
+
